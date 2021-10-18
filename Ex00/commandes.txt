@@ -1,0 +1,97 @@
+    1  history
+    2  cd ..
+    3  ls
+    4  cd Ex00/
+    5  ls
+    6  cd covers/
+    7  ls
+    8  cd ..
+    9  ls
+   10  cd covers/
+   11  mkdir Constructeurs
+   12  ls
+   13  cd Constructeurs/
+   14  mkdir Sony Nintendo Microsoft Sega
+   15  ls
+   16  cd sony
+   17  cd Sony/
+   18  mkdir Consoles/PS4
+   19  mkdir Consoles/ PS4
+   20  ls
+   21  cd Consoles/
+   22  ls
+   23  pwd
+   24  ls
+   25  cd ..
+   26  ls
+   27  rm PS4
+   28  rm -r PS4
+   29  ls
+   30  cd Consoles/
+   31  mkdir PS4
+   32  ls
+   33  mkdir PS5
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd Consoles/
+   38  ls
+   39  cd ..
+   40  ls
+   41  mv playstation_5.residentevilvillage_.jpg Constructeurs/Sony/Consoles/PS5
+   42  mv ps4_fifa14.jpg Constructeurs/Sony/Consoles/PS4
+   43  mv playstation_4.unchartedthelostlegacy.jpg Constructeurs/Sony/Consoles/PS4
+   44  mv playstation_4.assassinscreedodyssey.jpg Constructeurs/Sony/Consoles/PS4
+   45  mv playstation_4.watchdogs2.jpg Constructeurs/Sony/Consoles/PS4
+   46  mv playstation_5.assassinscreedvalhalla.jpg Constructeurs/Sony/Consoles/PS5
+   47  mv playstation_5.farcry6.jpg Constructeurs/Sony/Consoles/PS5
+   48  cd Constructeurs/
+   49  cd Nintendo/
+   50  mkdir Consoles/ Gamecube
+   51  cd Consoles/
+   52  ls
+   53  cd ..
+   54  ls
+   55  rm -r Gamecube/
+   56  cd Consoles/
+   57  mkdir Gamecube
+   58  cd ..
+   59  mkdir "Consoles portables"
+   60  cd "Consoles portables"/
+   61  mkdir "Game Boy"
+   62  cd ..
+   63  cd Microsoft/
+   64  mkdir Consoles
+   65  cd Consoles/
+   66  mkdir Xbox Xbox360
+   67  ls
+   68  cd ..
+   69  cd Sega/
+   70  ls
+   71  mkdir Consoles/ Dreamcast/
+   72  ls
+   73  mv Dreamcast/ Consoles/
+   74  ls
+   75  cd Consoles/
+   76  ls
+   77  cd ..
+   78  ls
+   79  mv gc* Constructeurs/Nintendo/Consoles/Gamecube/
+   80  mv gb* Constructeurs/Nintendo/"Consoles portabeles"/"Game Boy"
+   81* 
+   82  mv gb* Constructeurs/Nintendo/"Consoles portables"/"Game Boy"
+   83  mv xbox_de* Constructeurs/Microsoft/Consoles/Xbox
+   84  ls
+   85  mv xbox_hal* Constructeurs/Microsoft/Consoles/Xbox
+   86  mv xbox_jetsetradiofuture_2.jpg Constructeurs/Microsoft/Consoles/Xbox
+   87  mv xbox_needforspeedunderground2.jpg Constructeurs/Microsoft/Consoles/Xbox
+   88  mv x360* Constructeurs/Microsoft/Consoles/Xbox360
+   89  mv xbox_360.fableiii.jpg Constructeurs/Microsoft/Consoles/Xbox360
+   90  ls
+   91  mv dc_* Constructeurs/Sega/Consoles/Dreamcast/
+   92  ls
+   93  mv gameboy.pokmonred.jpg Constructeurs/Nintendo/"Consoles portables"/"Game Boy"
+   94  ls
+   95  cd ..
+   96  history
+   97  history >> commandes.txt

@@ -1,0 +1,2 @@
+cat it_alumni.csv | grep '2008'| grep 'Python' | wc -l
+

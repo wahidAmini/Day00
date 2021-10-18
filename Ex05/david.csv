@@ -1,0 +1,2 @@
+
+cat it_alumni.csv | grep 'David' | wc -l

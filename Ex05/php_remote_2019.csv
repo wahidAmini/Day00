@@ -1,1 +1,1 @@
-cat it_alumni.csv | grep 'Remote' | grep '2019'| grep 'PHP' | wc -l
+5

@@ -1,1 +1,1 @@
-Cameron,Officer,8
+awk -F , '$2 == "Officer" && $1 == "Cameron" { print }' tcpd_department.csv
